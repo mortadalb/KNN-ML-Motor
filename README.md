@@ -1,6 +1,6 @@
 ## KNN-ML-Motor
 
-A KNN Machine Learning model setup to classify good and bad motor isnurance business for new and existing clients based on a specific insurance market.
+A KNN Machine Learning model setup to classify good and bad motor insurance business for new and existing clients based on a specific insurance market.
 
 
 ### The key specs of this model are the following:
